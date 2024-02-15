@@ -12,7 +12,7 @@ void test_dummy2(void)
 
 void test_dummy3(void)
 {
-  TEST_ASSERT_FALSE(0);
+  TEST_ASSERT_FALSE(1);
 }
 
 void app_main()
